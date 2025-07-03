@@ -1,0 +1,70 @@
+{
+  "pageTitle": "About Us | Merge Fellas Club",
+  "pageDescription": "Learn about Merge Fellas Club's story, mission, and team. We are dedicated to providing high-quality online pet merging games and gaming community experiences.",
+  "pageKeywords": "About Merge Fellas Club, pet merging games, online games, puzzle games, capybara games, free games",
+  "heroSection": {
+    "title": "About Merge Fellas Club",
+    "subtitle": "An Online Platform Focused on Pet Merging Games",
+    "image": "https://images.unsplash.com/photo-1603481588273-2f908a9a7a1b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1200&h=400",
+    "content": "<p class='mt-4'>Merge Fellas Club is your <strong>ultimate online pet merging game platform</strong>. Join our growing gaming community today!</p>"
+  },
+  "missionSection": {
+    "title": "Our Mission",
+    "content": "Merge Fellas Club's mission is to make games more fun, accessible, and inclusive, providing a vibrant community for all players. We believe games are not just entertainment, but a powerful medium for connecting people, inspiring creativity, and promoting learning.",
+    "contentHtml": "<p>Merge Fellas Club's mission is to make games more <em>fun</em>, <em>accessible</em>, and <em>inclusive</em>, providing a <strong>vibrant community</strong> for all players.</p><p class='mt-3'>We believe games are not just entertainment, but a powerful medium for <strong>connecting people</strong>, <strong>inspiring creativity</strong>, and <strong>promoting learning</strong>.</p>",
+    "values": [
+      {
+        "title": "Accessibility",
+        "description": "Providing free, no-download gaming experiences, removing barriers to entry"
+      },
+      {
+        "title": "Diverse Experiences",
+        "description": "Offering various game modes including Cat Mode, Dog Mode, and Capybara Mode to satisfy different player preferences"
+      },
+      {
+        "title": "Community Interaction",
+        "description": "Building a friendly, supportive environment where players can share experiences and connect"
+      },
+      {
+        "title": "Quality Assurance",
+        "description": "Carefully crafting every game detail to ensure a high-quality user experience"
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Contact Us",
+    "content": "We welcome your feedback, suggestions, or cooperation proposals at any time. Whether you want to recommend a game, suggest improvements, or discuss potential collaboration opportunities, please feel free to contact us.",
+    "contentHtml": "We welcome your <strong>feedback</strong>, <strong>suggestions</strong>, or <strong>cooperation proposals</strong> at any time. Whether you want to recommend a game, suggest improvements, or discuss potential collaboration opportunities, please feel free to contact us.",
+    "email": "contact@mergefellas.club",
+    "social": {
+      "twitter": "https://twitter.com/mergefellas",
+      "facebook": "https://facebook.com/mergefellas",
+      "discord": "https://discord.gg/mergefellas"
+    }
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions",
+    "questions": [
+      {
+        "question": "Are all games free?",
+        "answer": "Yes, all games on Merge Fellas Club are provided for free. We believe games should be open to everyone, without any paywalls.",
+        "answerHtml": "Yes, all games on Merge Fellas Club are provided for <strong>free</strong>. We believe games should be open to everyone, without any paywalls."
+      },
+      {
+        "question": "Do I need to create an account to play games?",
+        "answer": "No. You can visit our website and start playing directly without registration. However, creating an account allows you to save game progress, participate in comments, and more.",
+        "answerHtml": "<strong>No</strong>. You can visit our website and start playing directly without registration. However, creating an account allows you to save game progress, participate in comments, and more."
+      },
+      {
+        "question": "What game modes does Merge Fellas offer?",
+        "answer": "Merge Fellas offers multiple game modes, including Cat Mode, Dog Mode, and Capybara Mode. Each mode has unique characters and challenges, making the gaming experience more diverse and engaging.",
+        "answerHtml": "Merge Fellas offers multiple game modes, including <strong>Cat Mode</strong>, <strong>Dog Mode</strong>, and <strong>Capybara Mode</strong>. Each mode has unique characters and challenges, making the gaming experience more diverse and engaging."
+      },
+      {
+        "question": "What devices does Merge Fellas Club support?",
+        "answer": "Our platform supports a variety of devices, including desktop computers, laptops, tablets, and smartphones. Our responsive design ensures the best experience on any screen.",
+        "answerHtml": "Our platform supports a variety of devices, including <strong>desktop computers</strong>, <strong>laptops</strong>, <strong>tablets</strong>, and <strong>smartphones</strong>. Our responsive design ensures the best experience on any screen."
+      }
+    ]
+  }
+}
