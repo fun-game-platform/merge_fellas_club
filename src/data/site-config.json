@@ -1,0 +1,63 @@
+{
+  "siteName": "Merge Fellas Club",
+  "shortDescription": "Play Merge Fellas Games For Free",
+  "longDescription": "Join Merge Fellas Club for a fun puzzle game that blends meme culture with Italian flair. Challenge your mind with innovative gameplay!",
+  "keywords": "Merge Fellas, meme culture, Italian Brainrot, brainrot merge game,brainrot,merge fellas online,merge fellas free online,merge fellas unblocked",
+  "baseUrl": "https://mergefellas.club",
+  "logoText": "Merge Fellas Club",
+  "mainTitle": "Play Merge Fellas Games For Free",
+  "subTitle": "Combine meme pets to create larger creatures. Play Merge Fellas online for free and enjoy various game modes!",
+  "footerText": "© 2025 Merge Fellas Club. All rights reserved.",
+  "homeHero": {
+    "mainTitle": "Merge Fellas: Italian Brainrot",
+    "subTitle": "Merge Fellas combines meme culture with Italian Brainrot elements in a mind-bending puzzle game that challenges your logical thinking and creativity.",
+    "backgroundImage": "https://images.unsplash.com/photo-1603481588273-2f908a9a7a1b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1920&h=1080",
+    "browseButtonText": "Browse Games",
+    "readButtonText": "Read Blog",
+    "isShowGame": true
+  },
+  "social": {
+    "twitter": "",
+    "facebook": "",
+    "instagram": "",
+    "discord": ""
+  },
+  "contact": {
+    "email": "",
+    "supportEmail": ""
+  },
+  "navigation": {
+    "mainNav": [
+      {
+        "label": "Home",
+        "href": "/"
+      },
+      {
+        "label": "Games",
+        "href": "/games"
+      },
+      {
+        "label": "Blog",
+        "href": "/blog"
+      },
+      {
+        "label": "About",
+        "href": "/about"
+      }
+    ]
+  },
+  "legal": {
+    "privacyPolicy": {
+      "label": "Privacy Policy",
+      "href": "/privacy-policy"
+    },
+    "termsOfService": {
+      "label": "Terms of Service",
+      "href": "/terms-of-service"
+    },
+    "cookiePolicy": {
+      "label": "Cookie Policy",
+      "href": "/cookie-policy"
+    }
+  }
+}

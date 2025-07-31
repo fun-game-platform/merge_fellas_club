@@ -1,0 +1,13 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Allow: /
+
+# 禁止爬取API路径
+Disallow: /api/
+# 禁止爬取管理后台相关页面
+Disallow: /admin/
+# 禁止爬取用户个人设置页面
+Disallow: /settings/
+
+# 指定Sitemap位置
+Sitemap: https://mergefellas.club/sitemap.xml 
